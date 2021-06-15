@@ -1,5 +1,7 @@
 const packageFoo = function () {
-  console.log("Hallo");
+  console.log("Hello");
 };
 
-export default packageFoo;
+module.exports = {
+  packageFoo,
+};
