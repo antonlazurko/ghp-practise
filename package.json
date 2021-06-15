@@ -1,5 +1,5 @@
 {
-  "name": "ghp-practise",
+  "name": "@antonlazurko/ghp-practise",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/antonlazurko/ghp-practise.git"
   },
   "publishConfig": {
-  "registry":"https://npm.pkg.github.com/@antonlazurko"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "",
   "license": "ISC",
